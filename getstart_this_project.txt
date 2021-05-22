@@ -1,0 +1,4 @@
+1. npm install -g express-generator // install tus express
+2. express --view=ejs nodejs-crud // tsim project
+3. npm install // tsimtus depedenci kom sim tau
+4. npm i express-flash express-session method-override mysql // loo cov nos thiaj lis sim tau rau yus lub mysql
